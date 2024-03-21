@@ -31,16 +31,15 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
-    description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    title: "Ichaka",
+    description: "A website built with HTML, CSS and JS for the preservation and continuity of the Igbo Language and Culture",
+    url: "https://avvyyy.github.io/Ichaka/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Raising Girls to Rise Up to the Task Ahead — SCABabcock x DataCamp",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Blogpost on the impact and progress of the partnership between SCA, Babcock and Datacamp",
+    url: "https://medium.com/@shecodeafricababcock2/raising-girls-to-rise-up-to-the-task-ahead-scababcock-x-datacamp-45ab9a2217c2",
   },
   {
     title: "My Resume Site",
@@ -49,10 +48,10 @@ const projectList = [
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Sleek Form in Vue",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Visually attractive and minimalistic form built in vue",
+    url: "https://vue-web-form-blond.vercel.app/",
   },
 ];
 
